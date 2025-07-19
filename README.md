@@ -126,5 +126,14 @@ Este projeto está licenciado sob a MIT License.
 
 ## 👨‍💻 Autor
 
+
+Previews:
+
+![Image](https://github.com/user-attachments/assets/1a7c367d-890a-4b7c-9500-5d0cba142699)
+![Image](https://github.com/user-attachments/assets/5da34aff-5982-475b-8e16-ba47f06b5937)
+![Image](https://github.com/user-attachments/assets/b9ca7b77-9a29-4fbe-8738-5f1c22fcedb2)
+![Image](https://github.com/user-attachments/assets/73f1c6af-b44e-4f36-9af5-2aa5876a0b42)
+
+
 Desenvolvido por [codariadev](https://github.com/codariadev).
 ```
