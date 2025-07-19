@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "pintura-app",
+    "name": "Alv Pintura",
     "slug": "pintura-app",
     "scheme": "pintura-app",
     "version": "1.0.0",
@@ -29,7 +29,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.kvtwetfps.pinturaapp"
